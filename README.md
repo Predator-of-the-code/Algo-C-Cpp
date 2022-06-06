@@ -35,6 +35,6 @@ Algorithme qui vous indique la table de multiplication demandé.
 Algorithme qui vous choisis un nombre aléatoirement entre 1 et 500 et vous devez le devinez avec les indications "Plus grand" / "Plus petit".
 Vous avez 10 essaie pour trouver le nombre exact.
 
-<a href="https://github.com/Predator-of-the-code/Algo-C-Cpp/blob/main/power.c"><li><strong>power.c</strong></li></a>
+<a href="https://github.com/Predator-of-the-code/Algo-C-Cpp/blob/main/power.c" target="_blank"><li><strong>power.c</strong></li></a>
 Algorithme donnant le résultat du nombre demandé au carré.
 
