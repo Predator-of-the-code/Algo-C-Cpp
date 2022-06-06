@@ -11,7 +11,7 @@ int main() {
     
     nd=nd+1;
     
-    printf("\nVoici les nombre suivant : ");
+    printf("\nVoici les nombres suivant : ");
     
     while(cpt < 10)
     {
