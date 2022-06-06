@@ -38,3 +38,6 @@ Vous avez 10 essaie pour trouver le nombre exact.
 <a href="https://github.com/Predator-of-the-code/Algo-C-Cpp/blob/main/power.c"><li><strong>power.c</strong></li></a>
 Algorithme donnant le résultat du nombre demandé au carré.
 
+![c](https://user-images.githubusercontent.com/104721814/172227191-da103312-9e09-4dba-abdc-bc206f8b755c.gif)
+
+
