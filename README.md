@@ -5,16 +5,16 @@
 <h3>Les algorithmes :</h3>
 
 
-<li><strong>Factorielle.c</strong></li>
+<a href="https://github.com/Predator-of-the-code/Algo-C-Cpp/blob/main/Factorielle.c"><li><strong>Factorielle.c</strong></li></a>
 Algorithme qui demande un nombre de départ, et qui calcule sa factorielle.
 
-<li><strong>Large number.c</strong></li>
-Algorithme qui demande successivement des nombres à l’utilisateur selon nombre 
+<a href="https://github.com/Predator-of-the-code/Algo-C-Cpp/blob/main/Large number.c"><li><strong>Large number.c</strong></li></a>
+Algorithme qui demande successivement des nombres à l’utilisateur selon nombre.
 
 d'élement voulut (pas > 30 élements), et qui ensuite quel est chiffre le plus grand 
 parmi ces nombres.
 
-<li><strong>Lotto-Games.c</strong></li>
+<a href="https://github.com/Predator-of-the-code/Algo-C-Cpp/blob/main/Loto-Games.c"><li><strong>Lotto-Games.c</strong></li></a>
 Algorithme qui vous donne un billet de loto à gratter. 
 Chaque chiffre gratter correspond à un gains (ou des fois non) :
 
@@ -28,5 +28,13 @@ Encaisser le gain --ou-- Gratter une nouvelle case
 
 (Si vous gratter un case déjà gratter, le programme vous le signalera)
 
-<li><strong>Multiplication-table.c</strong></li>
-Algorithme qui vous indique la table de multiplication demandé 
+<a href="https://github.com/Predator-of-the-code/Algo-C-Cpp/blob/main/Multiplication-table.c"><li><strong>Multiplication-table.c</strong></li></a>
+Algorithme qui vous indique la table de multiplication demandé.
+
+<a href="https://github.com/Predator-of-the-code/Algo-C-Cpp/blob/main/Random-number.c"><li><strong>Ramdom-number.c</strong></li></a>
+Algorithme qui vous choisis un nombre aléatoirement entre 1 et 500 et vous devez le devinez avec les indications "Plus grand" / "Plus petit".
+Vous avez 10 essaie pour trouver le nombre exact.
+
+<a href="https://github.com/Predator-of-the-code/Algo-C-Cpp/blob/main/power.c"><li><strong>power.c</strong></li></a>
+Algorithme donnant le résultat du nombre demandé au carré.
+
