@@ -2,8 +2,8 @@
 
 ![cpp](https://user-images.githubusercontent.com/104721814/172152501-ce4adaa3-46bd-4fd5-b358-60bb3c88a606.gif)
 
-<h3>Les algorithmes :</h3>
-
+<a href="https://github.com/Predator-of-the-code/Algo-C-Cpp/blob/main/Calculatrice.c"><li><strong>Calculatrice.c</strong></li></a>
+Calculatrice Fonctionnel
 
 <a href="https://github.com/Predator-of-the-code/Algo-C-Cpp/blob/main/Factorielle.c"><li><strong>Factorielle.c</strong></li></a>
 Algorithme qui demande un nombre de départ, et qui calcule sa factorielle.
